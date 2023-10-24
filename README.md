@@ -4,11 +4,17 @@
 Welcome to the Safety App! This Readme file will provide you with essential information on how to use the app and understand its features to ensure your safety in various real-world scenarios. An app made to revolutionize the modern world. This app is based on the theme "Possibilities for a safer world".
 
 # Table of Contents
-Getting Started
-Features
-How to Use
-Troubleshooting
-Feedback and Support
+. Video
+. Getting Started
+. Features
+. How to Use
+. Troubleshooting
+. Feedback and Support
+
+#Video
+Google Drive link for Video as it was too big for importing here. 
+
+https://drive.google.com/file/d/11g9ytX8QJSAOGgSGKoLX7T8aO_2rpzZN/view?usp=sharing
 
 # Getting Started
 You'll find this Safety App highly useful in real-world scenarios, especially when ensuring your personal safety. This app has been designed to help you and others stay safe in various situations.
@@ -47,4 +53,4 @@ Safety Tips
 
 # Further Implimentation
 
-As seen in the Furtherimplimentation.swift where the code will will written in SwiftUI to make a app of Xcode
+As seen in the Furtherimplimentation.swift where the code will will written in SwiftUI to make a app of Xcod
