@@ -11,7 +11,7 @@ Welcome to the Safety App! This Readme file will provide you with essential info
 . Troubleshooting
 . Feedback and Support
 
-#Video
+# Video
 Google Drive link for Video as it was too big for importing here. 
 
 https://drive.google.com/file/d/11g9ytX8QJSAOGgSGKoLX7T8aO_2rpzZN/view?usp=sharing
